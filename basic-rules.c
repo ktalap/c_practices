@@ -27,3 +27,6 @@ int main(int argc, char **argv);
 int atexit(void handler(void));
 // This is the compatible equivalent we deem unsafe, it can be null
 int atexit(void (*handler)(void));
+
+// [5]
+// We define variables as close to their first use as possible
