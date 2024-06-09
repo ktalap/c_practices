@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/user/code/c_practices/src/main.c" "CMakeFiles/Mergen.dir/src/main.c.o" "gcc" "CMakeFiles/Mergen.dir/src/main.c.o.d"
+  "/home/user/code/c_practices/src/main.c" "CMakeFiles/Main.dir/src/main.c.o" "gcc" "CMakeFiles/Main.dir/src/main.c.o.d"
   )
 
 # Targets to which this target links.

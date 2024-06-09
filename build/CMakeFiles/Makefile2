@@ -63,7 +63,7 @@ CMAKE_BINARY_DIR = /home/user/code/c_practices/build
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: CMakeFiles/Mergen.dir/all
+all: CMakeFiles/Main.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -99,7 +99,7 @@ clean: CMakeFiles/ContinuousTest.dir/clean
 clean: CMakeFiles/ContinuousCoverage.dir/clean
 clean: CMakeFiles/ContinuousMemCheck.dir/clean
 clean: CMakeFiles/ContinuousSubmit.dir/clean
-clean: CMakeFiles/Mergen.dir/clean
+clean: CMakeFiles/Main.dir/clean
 .PHONY : clean
 
 #=============================================================================
@@ -831,30 +831,30 @@ CMakeFiles/ContinuousSubmit.dir/clean:
 .PHONY : CMakeFiles/ContinuousSubmit.dir/clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/Mergen.dir
+# Target rules for target CMakeFiles/Main.dir
 
 # All Build rule for target.
-CMakeFiles/Mergen.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mergen.dir/build.make CMakeFiles/Mergen.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mergen.dir/build.make CMakeFiles/Mergen.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/user/code/c_practices/build/CMakeFiles --progress-num=1,2 "Built target Mergen"
-.PHONY : CMakeFiles/Mergen.dir/all
+CMakeFiles/Main.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Main.dir/build.make CMakeFiles/Main.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Main.dir/build.make CMakeFiles/Main.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/user/code/c_practices/build/CMakeFiles --progress-num=1,2 "Built target Main"
+.PHONY : CMakeFiles/Main.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/Mergen.dir/rule: cmake_check_build_system
+CMakeFiles/Main.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/code/c_practices/build/CMakeFiles 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Mergen.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Main.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/code/c_practices/build/CMakeFiles 0
-.PHONY : CMakeFiles/Mergen.dir/rule
+.PHONY : CMakeFiles/Main.dir/rule
 
 # Convenience name for target.
-Mergen: CMakeFiles/Mergen.dir/rule
-.PHONY : Mergen
+Main: CMakeFiles/Main.dir/rule
+.PHONY : Main
 
 # clean rule for target.
-CMakeFiles/Mergen.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mergen.dir/build.make CMakeFiles/Mergen.dir/clean
-.PHONY : CMakeFiles/Mergen.dir/clean
+CMakeFiles/Main.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Main.dir/build.make CMakeFiles/Main.dir/clean
+.PHONY : CMakeFiles/Main.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

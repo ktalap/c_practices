@@ -1,2 +1,2 @@
-# Empty dependencies file for Mergen.
+# Empty dependencies file for Main.
 # This may be replaced when dependencies are built.

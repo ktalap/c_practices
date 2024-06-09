@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/Mergen.dir/src/main.c.o -o Mergen 

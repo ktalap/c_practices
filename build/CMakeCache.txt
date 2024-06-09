@@ -148,7 +148,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=Mergen
+CMAKE_PROJECT_NAME:STATIC=Main
 
 //Value Computed by CMake
 CMAKE_PROJECT_VERSION:STATIC=0.0.1
@@ -256,13 +256,13 @@ MEMORYCHECK_COMMAND:FILEPATH=/usr/bin/valgrind
 MEMORYCHECK_SUPPRESSIONS_FILE:FILEPATH=
 
 //Value Computed by CMake
-Mergen_BINARY_DIR:STATIC=/home/user/code/c_practices/build
+Main_BINARY_DIR:STATIC=/home/user/code/c_practices/build
 
 //Value Computed by CMake
-Mergen_IS_TOP_LEVEL:STATIC=ON
+Main_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
-Mergen_SOURCE_DIR:STATIC=/home/user/code/c_practices
+Main_SOURCE_DIR:STATIC=/home/user/code/c_practices
 
 //Name of the computer/site where compile is being run
 SITE:STRING=dzeppelin

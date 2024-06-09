@@ -26,7 +26,7 @@
 /home/user/code/c_practices/build/CMakeFiles/ContinuousCoverage.dir
 /home/user/code/c_practices/build/CMakeFiles/ContinuousMemCheck.dir
 /home/user/code/c_practices/build/CMakeFiles/ContinuousSubmit.dir
-/home/user/code/c_practices/build/CMakeFiles/Mergen.dir
+/home/user/code/c_practices/build/CMakeFiles/Main.dir
 /home/user/code/c_practices/build/CMakeFiles/test.dir
 /home/user/code/c_practices/build/CMakeFiles/edit_cache.dir
 /home/user/code/c_practices/build/CMakeFiles/rebuild_cache.dir
